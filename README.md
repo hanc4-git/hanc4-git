@@ -18,6 +18,7 @@
 </div>
 
 [Top 3 percent nationally in research activity.](https://www.unlv.edu/news/release/unlv-attains-highest-status-research-university)
+
 </br>
 
 ### :fire: My Stats :
