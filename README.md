@@ -3,6 +3,10 @@
 - 🔭 I’m currently studying at [UNLV](https://www.unlv.edu/)
 - 🌱 I’m currently learning [GEANT4](https://geant4.org/index.shtml.html) and [ROOT](https://root.cern.ch/)
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanc4-git&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanc4-git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hanc4-git/hanc4-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
