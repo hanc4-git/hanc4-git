@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying at [University of Nevada, Las Vegas](https://www.unlv.edu/engineering)
+- 🌱 I’m currently learning [GEANT4](https://geant4.org/index.shtml.html) and [ROOT](https://root.cern.ch/)
+
 <!--
 **hanc4-git/hanc4-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
