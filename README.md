@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently studying at [UNLV](https://www.unlv.edu/engineering)
-- 🌱 I’m currently learning [GEANT4](https://geant4.org/index.shtml.html) and [ROOT](https://root.cern.ch/)
+- 🌱 I’m currently learning [GEANT4](https://geant4.org/) and [ROOT](https://root.cern.ch/)
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-UNLV-red?style=flat&logo=Google&logoColor=white)](mailto:hanc4@unlv.nevada.edu)
 </br>
 <div id="badges">
