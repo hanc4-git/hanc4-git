@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying at [UNLV](https://www.unlv.edu/)
+- 🔭 I’m currently studying at [UNLV](https://www.unlv.edu/engineering)
 - 🌱 I’m currently learning [GEANT4](https://geant4.org/index.shtml.html) and [ROOT](https://root.cern.ch/)
 
 ### :fire: My Stats :
