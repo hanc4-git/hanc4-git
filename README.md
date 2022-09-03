@@ -1,7 +1,24 @@
 ### Hi there 👋
-
 - 🔭 I’m currently studying at [UNLV](https://www.unlv.edu/engineering)
 - 🌱 I’m currently learning [GEANT4](https://geant4.org/index.shtml.html) and [ROOT](https://root.cern.ch/)
+</br>
+<div id="badges">
+  <a href="https://twitter.com/unlv">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/OfficialUNLV">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/unlv">
+  <img src="https://img.shields.io/badge/instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/unlvofficial">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
+[Top 3 percent nationally in research activity.](https://www.unlv.edu/news/release/unlv-attains-highest-status-research-university)
+</br>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanc4-git&theme=dark&background=000000)](https://git.io/streak-stats)
