@@ -4,18 +4,22 @@
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-UNLV-red?style=flat&logo=Google&logoColor=white)](mailto:hanc4@unlv.nevada.edu)
 </br>
 <div id="badges">
-  <a href="https://twitter.com/unlv">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.facebook.com/OfficialUNLV">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/unlv">
   <img src="https://img.shields.io/badge/instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.tiktok.com/@officialunlv">
+    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+  <a href="https://twitter.com/unlv">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://www.youtube.com/unlvofficial">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+
 </div>
 
 [Top 3 percent nationally in research activity.](https://www.unlv.edu/news/release/unlv-attains-highest-status-research-university)
