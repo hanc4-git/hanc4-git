@@ -28,6 +28,7 @@
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanc4-git&show_icons=true&theme=transparent&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanc4-git&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanc4-git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
